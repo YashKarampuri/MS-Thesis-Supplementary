@@ -1,2 +1,2 @@
 # MS-Thesis-Supplementary
-The appendix section includes supplementary studies (PDF file) and Python scripts, written during the MS thesis Project
+The appendix section includes PDF file of supplementary studies, main and additional python scripts used for analysis, written during the MS thesis Project: Graph Representation Learning for Binding Pocket Prediction in Proteins, a thesis submitted to the Indian Institute of Science Education and Research Pune in partial fulfillment of the requirements for the BS-MS Dual Degree Programme by Karampuri Yash Sunil.
